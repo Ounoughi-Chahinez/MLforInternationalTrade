@@ -111,3 +111,10 @@ To reproduce the experiments and analyses conducted in the notebooks within this
 - **Seaborn 0.12.2:** Seaborn enhances data visualization with more aesthetically pleasing and informative statistical plots, improving the clarity of our analyses.
 
 Make sure to install these libraries and maintain the specified versions to replicate the experiments and analyses accurately.
+
+
+
+## Acknowledgments
+This work was supported by grants to TalTech – TalTech Industrial (H2020, grant No 952410) [https://taltech.ee/arikorralduse-instituut/taltech-industrial] and Estonian Research Council (PRG1573)[https://www.etis.ee/Portal/Projects/Display/2f7d9acc-95c7-4285-af62-6e7b86ab0919
+].
+
