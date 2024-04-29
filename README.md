@@ -4,7 +4,7 @@ In this experiment, we utilized a comprehensive dataset obtained from UN Comtrad
 
 - **Data Cleaning Process:** During the data cleaning process, we applied specific criteria to ensure the accuracy and relevance of our dataset. These criteria included:
   - Downloading the UN Comtrade monthly data using the H4 revision.
-  - Selecting data for the period from 2016 to 2019.
+  - Selecting data for the period from 2016 to 2021.
   - Focusing on general trade patterns by choosing data with:
     - Customs Procedure Codes (CustomsCode) set to C00.
     - Modes of Transport (MotCode) set to 0.
@@ -24,13 +24,13 @@ In this experiment, we utilized a comprehensive dataset obtained from UN Comtrad
 
 - **Summary of Dataset:**
 
-  - **Period:** 2016-2019
-  - **Reporter Code:** 135
-  - **Partner Code:** 198
-  - **Commodity Code:** 5,198
+  - **Period:** 2016-2021
+  - **Reporter Code:** 148
+  - **Partner Code:** 203
+  - **Commodity Code:** 5,203
   - **Size:** 
-    - Exports: 102,321,944 records
-    - Imports: 89,876,314 records
+    - Exports: 256,300,077 records
+    
   - **Variables:**
     - Trade Value
     - Year
