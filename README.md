@@ -52,7 +52,7 @@ This comprehensive dataset forms the basis of our analysis and allows us to expl
 
 # Repository Structure
 
-This repository is organized into two main folders: "Exports" and "Imports," each containing notebooks and analyses related to the project. Below, you'll find a breakdown of the folder structure and the purpose of each notebook:
+This repository is organized into one main folder: "Exports" containing notebooks and analyses related to the project. Below, you'll find a breakdown of the folder structure and the purpose of each notebook:
 
 
 ## Exports Folder
@@ -91,15 +91,15 @@ To reproduce the experiments and analyses conducted in the notebooks within this
 
 - **Python 3.10:** The primary programming language used for scripting, data analysis, and running experiments.
 
-- **Pandas 2.2.1:** Pandas is essential for data cleaning, manipulation, and organization, ensuring that data is in the right format for analysis.
+- **Pandas 2.0.3:** Pandas is essential for data cleaning, manipulation, and organization, ensuring that data is in the right format for analysis.
 
 - **NumPy 1.25.0:** NumPy handles numerical computations efficiently and is crucial for working with arrays and matrices.
 
 - **Scikit-Learn (sklearn) 1.2.2:** Scikit-Learn provides a wide range of machine learning algorithms, which we use for modeling and evaluating our Decision Tree and Random Forest models.
 
-- **Matplotlib 3.8.3:** Matplotlib is utilized to create various data visualizations, aiding in the interpretation and presentation of results.
+- **Matplotlib 3.7.1:** Matplotlib is utilized to create various data visualizations, aiding in the interpretation and presentation of results.
 
-- **Seaborn 0.13.2:** Seaborn enhances data visualization with more aesthetically pleasing and informative statistical plots, improving the clarity of our analyses.
+- **Seaborn 0.12.2:** Seaborn enhances data visualization with more aesthetically pleasing and informative statistical plots, improving the clarity of our analyses.
 
 Make sure to install these libraries and maintain the specified versions to replicate the experiments and analyses accurately.
 
