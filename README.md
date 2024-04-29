@@ -1,3 +1,11 @@
+# Relatedness and Product Complexity Meet Gravity Models of International Trade
+
+Authors: Marek Tiits, Tarmo Kalvet, Chahinez Ounoughi, and Sadok Ben Yahia
+
+Journal of Open Innovation: Technology, Market, and Complexity (ELS)
+
+---
+
 ## Bilateral Trade Dataset Description
 
 In this experiment, we utilized a comprehensive dataset obtained from UN Comtrade and supplemented it with relevant variables from the CEPII gravity dataset. Below, we provide an overview of the dataset and the preprocessing steps applied to ensure its quality and relevance:
