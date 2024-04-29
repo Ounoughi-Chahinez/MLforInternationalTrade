@@ -74,9 +74,6 @@ This repository is organized into two main folders: "Exports" and "Imports," eac
 6. **Cumulative Dataset RF Experiments with Completely Unseen 2019 Test Set Notebook:**
    - *Cumulative Dataset RF Experiments with Completely Unseen 2019 Test Set.ipynb:* In this notebook, you'll find RF experiments conducted on a cumulative dataset, using a test set from 2019 that was not part of the training data.
 
-## Imports Folder
-
-The "Imports" folder mirrors the structure of the "Exports" folder and contains identical notebooks, ensuring that experiments and analyses are consistent for both export and import data.
 
 This organized structure allows for easy access to the specific experiments and analyses carried out for your project. You can explore and refer to these notebooks as needed for a comprehensive understanding of your research.
 
