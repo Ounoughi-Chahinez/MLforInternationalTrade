@@ -1,8 +1,12 @@
 # Relatedness and Product Complexity Meet Gravity Models of International Trade
 
-Authors: Marek Tiits, Tarmo Kalvet, Chahinez Ounoughi, and Sadok Ben Yahia
+Marek Tiits, Tarmo Kalvet, Chahinez Ounoughi, and Sadok Ben Yahia
+Journal of Open Innovation: Technology, Market, and Complexity, 2024, 100288, ISSN 2199-8531, https://doi.org/10.1016/j.joitmc.2024.100288.
 
-Journal of Open Innovation: Technology, Market, and Complexity (ELS)
+
+**Abstract:** Researchers have long used gravity models to analyze international trade patterns, identify export opportunities, and negotiate trade agreements. Recent research has emphasized the significance of relatedness and product complexity research in developing robust economic development strategies. This paper presents a novel approach, incorporating relatedness and product complexity as integral elements for interpreting export potential within gravity models powered by machine learning. Our approach stands out for its proficiency in accurately predicting bilateral trade values at a detailed product group level, providing valuable insights for policymakers and other stakeholders. The research leverages random forest machine learning models for predictions and incorporates relatedness and complexity to reveal new dimensions in international trade analysis.
+
+**Keywords:** Economic development policy; Relatedness and Complexity; Gravity model; Machine-learning; Explainability
 
 ---
 
