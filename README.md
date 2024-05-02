@@ -118,7 +118,7 @@ This work was supported by grants to TalTech – TalTech Industrial (H2020, gran
 ].
 
 ## Citation
-
+```bibtex
 @article{TIITS2024100288,
   title = {Relatedness and Product Complexity Meet Gravity Models of International Trade},
   journal = {Journal of Open Innovation: Technology, Market, and Complexity},
